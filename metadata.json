@@ -1,0 +1,5 @@
+{
+  "name": "SonicCluster",
+  "description": "An intelligent music clustering agent that groups audio tracks by analyzing their sonic features using Gemini AI.",
+  "requestFramePermissions": []
+}
